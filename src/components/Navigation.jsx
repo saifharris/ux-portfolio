@@ -23,7 +23,7 @@ function Navigation() {
   return (
     <NavContainer scrolled={scrolled}>
       <NavContent>
-        <Logo href="/">JD.</Logo>
+        <Logo href="/">H</Logo>
         <NavLinks>
           <NavItem href="#about">About</NavItem>
           <NavItem href="#case-studies">Case Studies</NavItem>
